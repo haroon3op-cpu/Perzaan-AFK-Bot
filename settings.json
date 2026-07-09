@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "zupsmp.aternos.me",
+    "port": 45742,
     "version": "1.21.1"
   },
   "position": {
