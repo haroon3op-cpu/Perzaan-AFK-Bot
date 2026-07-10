@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bangus.aternos.host",
+    "ip": "zupsmp.aternos.me",
     "port": 45742,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
