@@ -8,7 +8,7 @@
   "server": {
     "ip": "zupsmp-tuZE.aternos.me",
     "port": 18265,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
